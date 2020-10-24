@@ -4,7 +4,7 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="./picture/icme. ><a href="https://2021.ieeeicme.org/">ICME 2021</a>(https://2021.ieeeicme.org/) </h2>
+  <h2> <img src="./picture/icme.png" ><a href="https://2021.ieeeicme.org/">ICME 2021</a>(https://2021.ieeeicme.org/) </h2>
  </div>
  
  <div align='center' > 
