@@ -4,9 +4,9 @@
   (./picture/icme.png)  <h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2>
  </div>
 
-
- <img src="./picture/icme.png" vertical-align="middle"><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></img>
-
+<div style = "vertical-align:middle">
+ <img src="./picture/icme.png" ><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></img>
+</div>
  <h2> Special Session on </h2>
 
  <h2> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </h2>
