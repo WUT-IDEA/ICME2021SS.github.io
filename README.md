@@ -2,13 +2,15 @@
   <h2> IEEE International Conference on Multimedia and Expo </h2>
 
   (./picture/icme.png)  <h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2>
-
-  <img src="./picture/icme.png" style="vertical-align:middle"><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></img>
-
-  <h2> Special Session on </h2>
-
-  <h2> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </h2>
  </div>
+
+
+ <img src="./picture/icme.png" vertical-align="middle"><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></img>
+
+ <h2> Special Session on </h2>
+
+ <h2> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </h2>
+
  
 <div id="middle" style="float:left">
 <div id="left" style=" width:200px; float:left">hhhh</div>
