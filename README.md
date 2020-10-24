@@ -1,7 +1,9 @@
 <div align='center'> 
   <h2> IEEE International Conference on Multimedia and Expo </h2>
 
-  (./picture/icme.png)  <h2> [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2>
+  (./picture/icme.png)  <h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2>
+
+  <img src="./picture/icme.png" alt="" style="vertical-align:middle"><a href=""><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></a>
 
   <h2> Special Session on </h2>
 
