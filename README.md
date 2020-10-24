@@ -3,7 +3,7 @@
 
   (./picture/icme.png)  <h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2>
 
-  <img src="./picture/icme.png" alt="" style="vertical-align:middle"><a href=""><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></a>
+  <img src="./picture/icme.png" style="vertical-align:middle"><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></img>
 
   <h2> Special Session on </h2>
 
