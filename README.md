@@ -6,7 +6,7 @@
 
   <h2> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </h2>
  
-</div》
+
 
 
 ## Abstract:
