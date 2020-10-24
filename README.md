@@ -12,9 +12,9 @@
  <h2> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </h2>
 </div》
  
-<div id="middle" style="float:left">
-<div id="left" style=" width:200px; float:left">hhhh</div>
-<div id="main"width:400px; style="float:left">kkkk</div>
+<div >
+<div style="float:left">hhhh</div>
+<div style="float:left">kkkk</div>
 </div>
 
 ## Abstract:
