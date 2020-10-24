@@ -1,9 +1,11 @@
 ## <center> IEEE International Conference on Multimedia and Expo </center>
-## <center> ![avatar](./picture/icme.png)[ICME 2021](https://2021.ieeeicme.org/)(https://2021.ieeeicme.org/) </center>
+## <center> ![avatar](./picture/icme.png)[ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </center>
 ## <center> Special Session on </center>
 ## <center> Knowledge-Driven Multi-modal Deep Analysis for Multimedia</center>
 
 ## Abstract:
+
+![avatar](./picture/icme.png)[ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/)
 
 ![avatar](./picture/icme.png) With the aim of provision of high-quality information, services and items to users, advanced Internet and multimedia services have experienced an exponential growth and advanced rapidly over the past decades. A huge amount of user-generated and service provider-generated multimedia data become available. These data are heterogeneous and multi-modal in nature, imposing great challenges for processing and analyzing them. Multi-modal data consist of a mixture of various types of data from different modalities such as texts, images, videos, audios etc. Data-driven correlational representation and knowledge-guided learning are the main scientific problems for multimedia analysis. 
 
