@@ -3,8 +3,6 @@
 
   (./picture/icme.png)  <h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2>
 
-
-
  <img src="./picture/icme.png" ><h2>  [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </h2></img>
 
  <h2> Special Session on </h2>
@@ -13,8 +11,8 @@
 </div》
  
 <div >
-<div style="float:left">hhhh</div>
-<div style="float:left">kkkk</div>
+<div float=“left">hhhh</div>
+<div float:=“left">kkkk</div>
 </div>
 
 ## Abstract:
