@@ -1,5 +1,6 @@
 ## <center> IEEE International Conference on Multimedia and Expo </center>
-## ![avatar](./picture/icme.png)[ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) 
+## ![avatar](./picture/icme.png, #pic_center# =200x200) <center> [ICME 2021](https://2021.ieeeicme.org/) (https://2021.ieeeicme.org/) </center>
+
 ## <center> Special Session on </center>
 ## <center> Knowledge-Driven Multi-modal Deep Analysis for Multimedia</center>
 
