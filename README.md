@@ -1,10 +1,13 @@
-<div align='center' style = "vertical-align:middle"> 
-  <h2> IEEE International Conference on Multimedia and Expo </h2>
+
+## <center> IEEE International Conference on Multimedia and Expo </center>
+
+ <div align='center' style = "vertical-align:middle"> 
   <h2> <img src="./picture/icme.png" ><a href="https://2021.ieeeicme.org/">ICME 2021</a>(https://2021.ieeeicme.org/) </h2>
+  </div>
 
-  <h2> Special Session on </h2>
+## <center> Special Session on </center>
 
-  <h2> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </h2>
+## <center> Knowledge-Driven Multi-modal Deep Analysis for Multimedia </center>
  
 
 
