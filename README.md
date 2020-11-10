@@ -46,7 +46,7 @@ This special session aims at bringing together researchers and professionals fro
 | ![avatar](./picture/4.png) | ![avatar](./picture/5.png) |
 | Assistant Prof. Rajiv Ratn Shah, IIIT-Delhi, India |Prof. Yang Wang, Hefei University of Technology, China |
 
-**The special session submission site is open and can be accessed at https://cmt3.research.microsoft.com/ICME2021. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program. **
+***The special session submission site is open and can be accessed at https://cmt3.research.microsoft.com/ICME2021. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program.***
 
 
 ## Conference and Journal Papers
