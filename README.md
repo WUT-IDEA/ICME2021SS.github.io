@@ -46,10 +46,13 @@ This special session aims at bringing together researchers and professionals fro
 | ![avatar](./picture/4.png) | ![avatar](./picture/5.png) |
 | Assistant Prof. Rajiv Ratn Shah, IIIT-Delhi, India |Prof. Yang Wang, Hefei University of Technology, China |
 
-***The special session submission site is open and can be accessed at https://cmt3.research.microsoft.com/ICME2021. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program.***
+
 
 
 ## Conference and Journal Papers
+
+***The special session submission site is open and can be accessed at https://cmt3.research.microsoft.com/ICME2021. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program.***
+
 All papers presented at ICME 2021 will be included in IEEE Xplore. All papers submitted to this special session will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
 The IEEE Transactions on Multimedia is partnering with IEEE ICME. Extended versions of the top-ranked ICME 2021 papers will be invited for submission and potential publication in the IEEE Transactions on Multimedia and IEEE Open Journal of Circuits and Systems. We invite authors to submit high-quality contributions aiming at taking part in this call and to have the opportunity to publish an extended ICME paper in this prestigious journal. After the due review process, if your paper is highly ranked, the Technical Program Committee Chairs will get in touch with you regarding the next steps.
 
