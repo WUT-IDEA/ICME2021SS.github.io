@@ -34,9 +34,9 @@ This special session aims at bringing together researchers and professionals fro
 
 **Submission of papers:**
 
-* Regular Paper submission (including Special Sessions) : November 29, 2020
-* Submission of papers to workshops and other tracks : March 13, 2021
-* Industry/Application track paper submission : March 22, 2021
+* Full paper submission deadline: November 29, 2020
+* Rebuttal: February 17, 2021
+* Paper acceptance notification: March 6, 2021
 
 ## Organizing Team
 
@@ -46,6 +46,7 @@ This special session aims at bringing together researchers and professionals fro
 | ![avatar](./picture/4.png) | ![avatar](./picture/5.png) |
 | Assistant Prof. Rajiv Ratn Shah, IIIT-Delhi, India |Prof. Yang Wang, Hefei University of Technology, China |
 
+**The special session submission site is open and can be accessed at https://cmt3.research.microsoft.com/ICME2021. Under "Create New Submission", the authors need to choose the "subject area" as the desired "special session x", so the papers can be counted as special sessions.  If they choose other subject areas, the papers will belong to the main program. **
 
 
 ## Conference and Journal Papers
