@@ -34,7 +34,7 @@ This special session aims at bringing together researchers and professionals fro
 
 **Submission of papers:**
 
-* Full paper submission deadline: November 29, 2020
+* New Regular Paper Submission deadline: December 13, 2020[11:59 p.m. PST]
 * Rebuttal: February 17, 2021
 * Paper acceptance notification: March 6, 2021
 
